@@ -1,0 +1,1 @@
+This project aims to optimize traffic light timings at intersections using an evolutionary algorithm. The goal is to reduce traffic congestion by finding the most efficient timing schedules for traffic lights. By simulating traffic flow and applying evolutionary strategies, the project seeks to improve the overall efficiency of traffic management in urban areas.
